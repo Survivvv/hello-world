@@ -1,8 +1,0 @@
-<! --HTML JQUERY-->
-
-$(this).hide()
-$("p").hide()
-$(".test").hide()
-$("#test").hide()
-$(function(){
-  });
